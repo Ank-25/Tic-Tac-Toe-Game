@@ -32,6 +32,7 @@ To set up the Tic-Tac-Toe game on your local machine, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Ank-25/Tic-Tac-Toe.git
+   ```
 
-
-
+   ```bash
+   cd .\Tic-Tac-Toe-Game\
